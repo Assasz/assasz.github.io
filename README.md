@@ -1,2 +1,2 @@
-# manipura-static
+# manipura
 Manipura Fire Dance
