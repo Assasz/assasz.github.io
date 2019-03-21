@@ -50,6 +50,10 @@ body {
     top: 0;
     opacity: 1; }
 
+.white-backgroud {
+  /* background-color: #fff; */
+  /* width: calc(100% + 200px); */ }
+
 .navbar-scrolled {
   background-color: #EDEDED;
   height: 60px;
