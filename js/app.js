@@ -1,5 +1,8 @@
 $(document).ready(function () {
-    $('.intro').bgVideo();
+    $('.intro').bgVideo({
+        fadeOnPause: true,
+        showPausePlay: true
+    });
 
     $('.intro').mouseover(function () {
         this.play();
