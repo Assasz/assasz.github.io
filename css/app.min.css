@@ -24,6 +24,7 @@ body span {
 .navbar .navbar-brand a:not(.nav-btn) {
     line-height: 45px;
     font-size: 20px;
+    color: #FEAE03;
 }
 
 .navbar .menu-icon {
