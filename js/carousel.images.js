@@ -1,4 +1,4 @@
-var carouselImages = [
+const carouselImages = [
     {
         src: "images/gallery/1.jpg",
         thumbSrc: "images/gallery/min1.jpg",
