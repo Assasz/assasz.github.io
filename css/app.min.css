@@ -27,6 +27,12 @@ body span {
     color: #FEAE03;
 }
 
+.navbar .navbar-fb a:not(.nav-btn) {
+    line-height: 45px;
+    font-size: 15px;
+    color: #FEAE03;
+}
+
 .navbar .menu-icon {
     font-size: 24px
 }
