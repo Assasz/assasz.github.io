@@ -23,6 +23,7 @@ body span {
 
 .mr-auto {
     margin-left: 30px;
+    line-height: 45px;
 }
 
 .navbar .navbar-brand a:not(.nav-btn) {
