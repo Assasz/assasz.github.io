@@ -25,16 +25,19 @@ body span {
     line-height: 45px;
     font-size: 20px;
     color: #FEAE03;
+    margin-left: 25px;
 }
 
 .navbar .navbar-fb a:not(.nav-btn) {
     line-height: 45px;
     font-size: 18px;
     color: #FEAE03;
+    margin-right: 25px;
 }
 
 .navbar .menu-icon {
-    font-size: 24px
+    font-size: 24px;
+    margin-right: 25px;   
 }
 
 .navbar .menu-container {
