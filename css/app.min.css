@@ -21,6 +21,10 @@ body span {
     transition: all .3s ease
 }
 
+.mr-auto {
+    margin-left: 30px;
+}
+
 .navbar .navbar-brand a:not(.nav-btn) {
     line-height: 45px;
     font-size: 20px;
