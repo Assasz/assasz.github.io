@@ -48,6 +48,8 @@ $(document).ready(function () {
 
     $('.page-content').parallax();
 
+    $('[data-toggle="tooltip"]').tooltip()
+
     var toggleMenu = function () {
         if ($('.menu-container').hasClass('menu-toggled')) {
             $('.menu-icon').replaceWith('<span class="fa fa-fw fa-bars menu-icon mr-0" aria-hidden="true"></span>');
