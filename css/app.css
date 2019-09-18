@@ -21,11 +21,6 @@ body span {
     transition: all .3s ease
 }
 
-.mr-auto {
-    margin-left: 30px;
-    line-height: 45px;
-}
-
 .navbar .navbar-brand a:not(.nav-btn) {
     line-height: 45px;
     font-size: 20px;
@@ -35,9 +30,8 @@ body span {
 
 .navbar .navbar-fb a:not(.nav-btn) {
     line-height: 45px;
-    font-size: 18px;
+    font-size: 22px;
     color: #FEAE03;
-    margin-right: 25px;
 }
 
 .navbar .menu-icon {
@@ -117,6 +111,10 @@ body span {
     display: none
 }
 
+.page-footer {
+    border-top: 1px solid #FEAE03;
+}
+
 .bg-transparent {
     background: 0 0
 }
@@ -132,6 +130,12 @@ body span {
 
 .btn-transparent:focus {
     outline: 0
+}
+
+.badge-primary {
+    background-color: #FEAE03;
+    padding: 5px 10px;
+    font-size: 14px;
 }
 
 .offscreen {

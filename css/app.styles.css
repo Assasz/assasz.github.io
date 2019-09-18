@@ -14,19 +14,21 @@
 
 .nav-btn {
   position: absolute;
-  top: 50%;
-  background-color: orange;
-  color: white;
+  top: 45vh;
+  background-color: transparent;
+  color: #FEAE03;
   transform: translateY(-50%);
   border-radius: 50%;
   text-decoration: none;
   display: inline-block;
-  padding: 8px 16px;
+  font-size: 60px;
+  text-shadow: 2px 2px rgba(0, 0, 0, .5);
+  padding: 45vh 20px;
 }
 
 .nav-btn:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: transparent;
+  color: #FFF;
 }
 
 .modal-header {

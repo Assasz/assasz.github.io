@@ -50,9 +50,9 @@ $(document).ready(function () {
 
     var toggleMenu = function () {
         if ($('.menu-container').hasClass('menu-toggled')) {
-            $('.menu-icon').replaceWith('<span class="fa fa-fw fa-bars menu-icon" aria-hidden="true"></span>');
+            $('.menu-icon').replaceWith('<span class="fa fa-fw fa-bars menu-icon mr-0" aria-hidden="true"></span>');
         } else {
-            $('.menu-icon').replaceWith('<span class="fa fa-fw fa-close menu-icon" aria-hidden="true"></span>');
+            $('.menu-icon').replaceWith('<span class="fa fa-fw fa-close menu-icon mr-0" aria-hidden="true"></span>');
         }
 
         $('.menu-container').toggleClass('menu-toggled');
@@ -63,7 +63,7 @@ $(document).ready(function () {
     $('#menu a').click(toggleMenu);
 
     $('#menu a').click(function () {
-        var href = $.attr(this, 'href'),
+        let href = $.attr(this, 'href'),
             position = (href == '#o-mnie') ? $(href).offset().top : $(href).offset().top - 40;
 
         $('html, body').animate({
@@ -78,7 +78,7 @@ $(document).ready(function () {
     });
 
     $(window).scroll(function () {
-        var $nav = $(".navbar");
+        let $nav = $(".navbar");
         $nav.toggleClass('navbar-scrolled', $(this).scrollTop() > $nav.height());
 
         if ($nav.hasClass('navbar-scrolled')) {
@@ -107,7 +107,6 @@ $(document).ready(function () {
     function refreshModal() {
         let { src, desc: title } = carouselImages[currentImageIdx]
 
-        console.log("dispalay image " + currentImageIdx)
         $('.modal-title').html(title);
         $('.modal-body img').attr({
             src: src,
@@ -143,7 +142,7 @@ $(document).ready(function () {
     $('.previous.nav-btn').click(onModalPrev)
 
     $('[data-action="show-modal"]').click(function () {
-        var clickedImage = $(this).parent().find('.carousel-image');
+        let clickedImage = $(this).parent().find('.carousel-image');
         currentImageIdx = clickedImage.attr("id");
 
         refreshModal(currentImageIdx)
