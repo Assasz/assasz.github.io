@@ -58,6 +58,7 @@ $(document).ready(function () {
         }
 
         $('.menu-container').toggleClass('menu-toggled');
+        $('.menu-container').toggleClass('menu-illuminated', $(window).scrollTop() > 0);
     }
 
     $('[data-action="toggle-menu"]').click(toggleMenu);
@@ -80,7 +81,8 @@ $(document).ready(function () {
     });
 
     $(window).scroll(function () {
-        let $nav = $(".navbar");
+        let $nav = $(".navbar")
+
         $nav.toggleClass('navbar-scrolled', $(this).scrollTop() > $nav.height());
 
         if ($nav.hasClass('navbar-scrolled')) {
