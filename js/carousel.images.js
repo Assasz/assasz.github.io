@@ -56,7 +56,7 @@ const carouselImages = [
     },
     {
         src: "images/gallery/13.jpg",
-        thumbSrc: "images/gallery/13.jpg",
-        desc: "Led session: Mateusz Koszykowski, Aga Koncewicz, Paweł Jakubiszyn"
+        thumbSrc: "images/gallery/13min.jpg",
+        desc: "Led session: Mateusz Koszykowski, Paweł Jakubiszyn"
     },
 ]
