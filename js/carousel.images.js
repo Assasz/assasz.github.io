@@ -30,11 +30,6 @@ const carouselImages = [
         desc: "Protokultura, Psycho BBQ"
     },
     {
-        src: "images/gallery/7.jpg",
-        thumbSrc: "images/gallery/min7.jpg",
-        desc: "Shiva Space Technology X"
-    },
-    {
         src: "images/gallery/10.jpg",
         thumbSrc: "images/gallery/min10.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk 2018"
