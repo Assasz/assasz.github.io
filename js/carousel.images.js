@@ -54,4 +54,14 @@ const carouselImages = [
         thumbSrc: "images/gallery/8.jpg",
         desc: "Sabat Czarownic 2018, Protokultura"
     },
+    {
+        src: "images/gallery/12.jpg",
+        thumbSrc: "images/gallery/12.jpg",
+        desc: "Led session: Mateusz Koszykowski, Aga Koncewicz, Paweł Jakubiszyn"
+    },
+    {
+        src: "images/gallery/13.jpg",
+        thumbSrc: "images/gallery/13.jpg",
+        desc: "Led session: Mateusz Koszykowski, Aga Koncewicz, Paweł Jakubiszyn"
+    },
 ]
