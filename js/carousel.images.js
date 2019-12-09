@@ -20,9 +20,9 @@ const carouselImages = [
         desc: "Grupa FireShow"
     },
     {
-        src: "images/gallery/2.jpg",
-        thumbSrc: "images/gallery/min2.jpg",
-        desc: "Fire at the Baltic Sea"
+        src: "images/gallery/17.jpg",
+        thumbSrc: "images/gallery/17min.jpg",
+        desc: "Wedding show"
     },
     {
         src: "images/gallery/4.jpg",
@@ -59,4 +59,9 @@ const carouselImages = [
         thumbSrc: "images/gallery/13min.jpg",
         desc: "Led session: Mateusz Koszykowski, Paweł Jakubiszyn"
     },
+    {
+        src: "images/gallery/16.jpg",
+        thumbSrc: "images/gallery/16min.jpg",
+        desc: "Wedding show"
+    },    
 ]
