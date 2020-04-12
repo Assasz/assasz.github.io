@@ -370,4 +370,8 @@ body span {
     .page-header .tap-image {
         display: block
     }
+    
+    h2 {
+        font-size: 2rem;
+    }
 }
