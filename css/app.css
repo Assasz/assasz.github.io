@@ -371,7 +371,7 @@ body span {
         display: block
     }
     
-    h2 {
+    .page-content .page-section h2 {
         font-size: 2rem;
     }
 }
