@@ -1,52 +1,52 @@
 const carouselImages = [
     {
-        src: "images/gallery/17.jpg",
-        thumbSrc: "images/gallery/17min.jpg",
+        src: "images/gallery/pokaz-ognia-wesele.jpg",
+        thumbSrc: "images/gallery/pokaz-ognia-wesele-min.jpg",
         desc: "Wesele"
     },
     {
-        src: "images/gallery/16.jpg",
-        thumbSrc: "images/gallery/16min.jpg",
+        src: "images/gallery/pokaz-artystyczny-wesele.jpg",
+        thumbSrc: "images/gallery/pokaz-artystyczny-wesele-min.jpg",
         desc: "Pokaz artystyczny na weselu"
     },
     {
-        src: "images/gallery/5.jpg",
-        thumbSrc: "images/gallery/min5.jpg",
+        src: "images/gallery/obrazy-ogniem-malowane-2017.jpg",
+        thumbSrc: "images/gallery/obrazy-ogniem-malowane-2017-min.jpg",
         desc: "Obrazy ogniem malowane 2017"
     },    
     {
-        src: "images/gallery/1.jpg",
-        thumbSrc: "images/gallery/min1.jpg",
+        src: "images/gallery/ostroda-festiwal-ognia.jpg",
+        thumbSrc: "images/gallery/ostroda-festiwal-ognia-min.jpg",
         desc: "Ostróda festiwal ognia"
     },
     {
-        src: "images/gallery/9.jpg",
-        thumbSrc: "images/gallery/9.jpg",
+        src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
+        thumbSrc: "images/gallery/jarmark-bozonarodzewniowy-gdansk-2018.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk"
     },
     {
-        src: "images/gallery/11.jpg",
-        thumbSrc: "images/gallery/11.jpg",
+        src: "images/gallery/amber-sky.jpg",
+        thumbSrc: "images/gallery/amber-sky.jpg",
         desc: "Pokaz pod AmberSky Gdańsk 2019"
     },
     {
-        src: "images/gallery/3.jpg",
-        thumbSrc: "images/gallery/min3.jpg",
+        src: "images/gallery/grupa-ognniowa.jpg",
+        thumbSrc: "images/gallery/grupwa-ogniowa-min.jpg",
         desc: "Grupa ogniowa"
     },
     {
-        src: "images/gallery/10.jpg",
-        thumbSrc: "images/gallery/min10.jpg",
+        src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2019.jpg",
+        thumbSrc: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2019-min.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk 2018"
     },
     {
-        src: "images/gallery/6.jpg",
-        thumbSrc: "images/gallery/min6.jpg",
+        src: "images/gallery/obrazy-ogniem-malowane.jpg",
+        thumbSrc: "images/gallery/obrazy-ogniem-malowane-min.jpg",
         desc: "Obrazy ogniem malowane 2017"
     },
     {
-        src: "images/gallery/12.jpg",
-        thumbSrc: "images/gallery/12min.jpg",
+        src: "images/gallery/sesja-fotograficzna-led.jpg",
+        thumbSrc: "images/gallery/sesja-fotograficzna-led-min.jpg",
         desc: "Sesja fotograficzne led"
     },
 
