@@ -47,7 +47,7 @@ const carouselImages = [
     {
         src: "images/gallery/12.jpg",
         thumbSrc: "images/gallery/12min.jpg",
-        desc: "LSesje fotograficzne led"
+        desc: "Sesja fotograficzne led"
     },
 
     
