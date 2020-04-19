@@ -2,12 +2,12 @@ const carouselImages = [
     {
         src: "images/gallery/17.jpg",
         thumbSrc: "images/gallery/17min.jpg",
-        desc: "Wedding show"
+        desc: "Wesele"
     },
     {
         src: "images/gallery/16.jpg",
         thumbSrc: "images/gallery/16min.jpg",
-        desc: "Wedding show"
+        desc: "Pokaz artystyczny na weselu"
     },
     {
         src: "images/gallery/5.jpg",
@@ -27,12 +27,12 @@ const carouselImages = [
     {
         src: "images/gallery/11.jpg",
         thumbSrc: "images/gallery/11.jpg",
-        desc: "AmberSky Gdańsk 2019"
+        desc: "Pokaz pod AmberSky Gdańsk 2019"
     },
     {
         src: "images/gallery/3.jpg",
         thumbSrc: "images/gallery/min3.jpg",
-        desc: "Grupa FireShow"
+        desc: "Grupa ogniowa"
     },
     {
         src: "images/gallery/10.jpg",
@@ -47,7 +47,7 @@ const carouselImages = [
     {
         src: "images/gallery/12.jpg",
         thumbSrc: "images/gallery/12min.jpg",
-        desc: "Led session: Mateusz Koszykowski, Aga Koncewicz, Paweł Jakubiszyn"
+        desc: "LSesje fotograficzne led"
     },
 
     
