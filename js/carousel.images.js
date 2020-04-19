@@ -6,7 +6,7 @@ const carouselImages = [
     },
     {
         src: "images/gallery/pokaz-artystyczny-wesele.jpg",
-        thumbSrc: "images/gallery/pokaz-artystyczny-wesele-min.jpg",
+        thumbSrc: "images/gallery/pokaz-artystyczny-wesele-in.jpg",
         desc: "Pokaz artystyczny na weselu"
     },
     {
@@ -21,7 +21,7 @@ const carouselImages = [
     },
     {
         src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
-        thumbSrc: "images/gallery/jarmark-bozonarodzewniowy-gdansk-2018.jpg",
+        thumbSrc: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk"
     },
     {
@@ -30,8 +30,8 @@ const carouselImages = [
         desc: "Pokaz pod AmberSky Gdańsk 2019"
     },
     {
-        src: "images/gallery/grupa-ognniowa.jpg",
-        thumbSrc: "images/gallery/grupwa-ogniowa-min.jpg",
+        src: "images/gallery/grupa-ogniowa.jpg",
+        thumbSrc: "images/gallery/grupa-ogniowa-min.jpg",
         desc: "Grupa ogniowa"
     },
     {
