@@ -15,13 +15,13 @@ const carouselImages = [
         desc: "Obrazy ogniem malowane 2017"
     },    
     {
-        src: "images/gallery/taniec-z-ogniem-plaza.jpg",
-        thumbSrc: "images/gallery/taniec-z-ogniem-plaza.jpg",
+        src: "images/gallery/taniec-z-ogniem-plaza.jepg",
+        thumbSrc: "images/gallery/taniec-z-ogniem-plaza-min.jepg",
         desc: "Taniec z ogniem na plazy"
     },
     {
-        src: "images/gallery/taniec-z-ogniem-wschod.jpg",
-        thumbSrc: "images/gallery/taniec-z-ogniem-wschod.jpg",
+        src: "images/gallery/taniec-z-ogniem-wschod.jepg",
+        thumbSrc: "images/gallery/taniec-z-ogniem-wschod-min.jepg",
         desc: "taniec z ogniem wschod slonca"
     },
     {
