@@ -15,9 +15,14 @@ const carouselImages = [
         desc: "Obrazy ogniem malowane 2017"
     },    
     {
-        src: "images/gallery/ostroda-festiwal-ognia.jpg",
-        thumbSrc: "images/gallery/ostroda-festiwal-ognia-min.jpg",
-        desc: "Ostróda festiwal ognia"
+        src: "images/gallery/taniec-z-ogniem-plaza.jpg",
+        thumbSrc: "images/gallery/taniec-z-ogniem-plaza.jpg",
+        desc: "Taniec z ogniem na plazy"
+    },
+    {
+        src: "images/gallery/taniec-z-ogniem-wschod.jpg",
+        thumbSrc: "images/gallery/taniec-z-ogniem-wschod.jpg",
+        desc: "taniec z ogniem wschod slonca"
     },
     {
         src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
