@@ -50,9 +50,9 @@ const carouselImages = [
         desc: "Obrazy ogniem malowane 2017"
     },
     {
-        src: "images/gallery/sesja-fotograficzna-led.jpg",
-        thumbSrc: "images/gallery/sesja-fotograficzna-led-min.jpg",
-        desc: "Sesja fotograficzne led"
+        src: "images/gallery/duet-ognia.jpeg",
+        thumbSrc: "images/gallery/duet-ognia.jpeg",
+        desc: "Duet Ogniowy, Wiola Rabczun, Mateusz Koszykowski"
     },
 
     
