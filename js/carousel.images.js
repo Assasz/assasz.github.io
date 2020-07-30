@@ -40,6 +40,11 @@ const carouselImages = [
         desc: "Grupa ogniowa"
     },
     {
+        src: "images/gallery/ogniste-serce.jpg",
+        thumbSrc: "images/gallery/ogniste-serce.jpg",
+        desc: "Ogniste serce, płonące serce"
+    },    
+    {
         src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2019.jpg",
         thumbSrc: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2019-min.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk 2018"
