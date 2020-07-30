@@ -40,8 +40,8 @@ const carouselImages = [
         desc: "Grupa ogniowa"
     },
     {
-        src: "images/gallery/ogniste-serce.jpg",
-        thumbSrc: "images/gallery/ogniste-serce.jpg",
+        src: "images/gallery/ogniste-serce-plonace.jpg",
+        thumbSrc: "images/gallery/ogniste-serce-plonace.jpg",
         desc: "Ogniste serce, płonące serce"
     },    
     {
