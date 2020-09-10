@@ -60,12 +60,12 @@ const carouselImages = [
         desc: "Duet Ogniowy, Wiola Rabczun, Mateusz Koszykowski"
     },
     {
-        src: "images/gallery/trio.jpeg",
+        src: "images/gallery/trio.jpg",
         thumbSrc: "images/gallery/trio.jpeg",
         desc: "DTrio ognia"
     },
     {
-        src: "images/gallery/grupa.jpeg",
+        src: "images/gallery/grupa.jpg",
         thumbSrc: "images/gallery/grupa.jpeg",
         desc: "grupa fireshow"
     },
