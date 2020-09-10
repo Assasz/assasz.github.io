@@ -61,7 +61,7 @@ const carouselImages = [
     },
     {
         src: "images/gallery/trio.jpg",
-        thumbSrc: "images/gallery/trio.jpg",
+        thumbSrc: "images/gallery/trio-min.jpg",
         desc: "DTrio ognia"
     },
     {
