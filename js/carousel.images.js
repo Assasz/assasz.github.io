@@ -75,8 +75,8 @@ const carouselImages = [
         desc: "Visual Led Show"
     },
     {
-        src: "images/firelight1.jpg",
-        thumbSrc: "images/firelight1.jpg",
+        src: "images/ledshow1.jpg",
+        thumbSrc: "images/ledshow1-min.jpg",
         desc: "Pokaz Ognia i Światła"
     },
 
