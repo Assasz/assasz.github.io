@@ -50,9 +50,9 @@ const carouselImages = [
         desc: "Jarmark Bożonarodzeniowy Gdańsk 2018"
     },
     {
-        src: "images/gallery/obrazy-ogniem-malowane.jpg",
-        thumbSrc: "images/gallery/obrazy-ogniem-malowane-min.jpg",
-        desc: "Obrazy ogniem malowane 2017"
+        src: "images/gallery/taniec-z-ogniem.jpg",
+        thumbSrc: "images/gallery/taniec-z-ogniem-min.jpg",
+        desc: "Festiwal Wibracje, eksploracja kij + poi"
     },
     {
         src: "images/gallery/duet-ognia.jpeg",
@@ -72,6 +72,11 @@ const carouselImages = [
     {
         src: "images/gallery/Visual.jpeg",
         thumbSrc: "images/gallery/Visual.jpeg",
+        desc: "Visual Led Show"
+    },
+    {
+        src: "images/firelight1",
+        thumbSrc: "images/firelight1",
         desc: "Visual Led Show"
     },
 
