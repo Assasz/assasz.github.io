@@ -25,6 +25,11 @@ const carouselImages = [
         desc: "taniec z ogniem wschod slonca"
     },
     {
+        src: "images/gallery/pirotechnika.jpeg",
+        thumbSrc: "images/gallery/pirotechnika.jpeg",
+        desc: "Pirotechnika"
+    },
+    {
         src: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
         thumbSrc: "images/gallery/jarmark-bozonarodzeniowy-gdansk-2018.jpg",
         desc: "Jarmark Bożonarodzeniowy Gdańsk"
