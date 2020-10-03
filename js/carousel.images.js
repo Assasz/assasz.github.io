@@ -25,8 +25,8 @@ const carouselImages = [
         desc: "taniec z ogniem wschod slonca"
     },
     {
-        src: "images/gallery/pirotechnika.jpeg",
-        thumbSrc: "images/gallery/pirotechnika.jpeg",
+        src: "images/pirotechnika.jpeg",
+        thumbSrc: "images/pirotechnika.jpeg",
         desc: "Pirotechnika"
     },
     {
